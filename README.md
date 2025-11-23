@@ -71,5 +71,5 @@ slot_machine_project/
 | Field        | Details                                                                                                    |
 | ------------ | ---------------------------------------------------------------------------------------------------------- |
 | **Name**     | Sneha Sharma                                                                                               |
-| **LinkedIn** | [www.linkedin.com/in/sneha-sharma-90012b296](www.linkedin.com/in/sneha-sharma-90012b296/)                                   |
+| **LinkedIn** | (www.linkedin.com/in/sneha-sharma-90012b296/)                                                              |
 | **Email**    | [snehasnehasharma0918@gmail.com](mailto:snehasnehasharma0918@gmail.com)                                                              |
